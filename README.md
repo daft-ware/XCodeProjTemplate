@@ -1,3 +1,3 @@
 # XCodeprojTemplate
 
-<rest of the README>
+*rest of the README*
